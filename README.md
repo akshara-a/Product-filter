@@ -1,1 +1,1 @@
-# filter-project
+This is a simple product filter
