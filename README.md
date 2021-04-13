@@ -1,1 +1,1 @@
-This is a simple product filter
+This is a simple product filter for E-com sites
